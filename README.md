@@ -4,4 +4,4 @@ This repository contains a project focused on predicting chess moves using Convo
 
 ## Overview
 
-Chess Move Prediction with CNN explores the use of CNNs to analyze and predict chess moves in games played on lichess.org. The model takes into account the current board configuration and suggests potential legal moves, aiming to assist in decision-making during chess games.
+Chess Move Prediction with CNN explores the use of CNNs to analyze and predict chess moves in games. The model takes into account the current board configuration and suggests potential legal moves, aiming to assist in decision-making during chess games.
